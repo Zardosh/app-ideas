@@ -55,30 +55,30 @@ Os projetos são divididos em três categorias baseado no conhecimento e experi�
 | [Inversor de Imagens](./Projetos/1-Iniciante/Flip-Image-App.md)                             | Mude a orientação de imagens nos 2 eixos           | 1-Iniciante |
 | [Status do GitHub](./Projetos/1-Iniciante/GitHub-Status-App.md)                       | Mostre o Status atual do GitHub                              | 1-Iniciante |
 | [Olá](./Projetos/1-Iniciante/Hello-App.md)                                       | Saudações na língua nativa do usuário                              | 1-Iniciante |
-| [IOT Mailbox Simulator](./Projetos/1-Iniciante/IOT-Mailbox-App.md)                 | Use callbacks to check your snail mail                     | 1-Iniciante |
-| [JS Input Validation](./Projetos/1-Iniciante/Javascript-Validation-With-Regex.md)  | Script to validate inputs entered by a user using RegEx    | 1-Iniciante |
-| [JSON2CSV App](./Projetos/1-Iniciante/JSON2CSV-App.md)                             | JSON to CSV converter                                      | 1-Iniciante |
-| [Key Value](./Projetos/1-Iniciante/Key-Value-App.md)                               | Keyboard Event Values                                      | 1-Iniciante |
-| [Lorem Ipsum Generator](./Projetos/1-Iniciante/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                      | 1-Iniciante |
-| [Notes App](./Projetos/1-Iniciante/Notes-App.md)                                   | Create an online note pad                                  | 1-Iniciante |
-| [Pearson Regression](./Projetos/1-Iniciante/Pearson-Regression-App.md)             | Calculate the correlation coefficient for two sets of data | 1-Iniciante |
-| [Pomodoro Clock](./Projetos/1-Iniciante/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                    | 1-Iniciante |
-| [Product Landing Page](./Projetos/1-Iniciante/Product-Landing-Page.md)             | Showcase product details for possible buyers               | 1-Iniciante |
-| [Quiz App](./Projetos/1-Iniciante/Quiz-App.md)                                     | Test your knowledge by answering questions                 | 1-Iniciante |
-| [Recipe App](./Projetos/1-Iniciante/Recipe-App.md)                                 | Recipe                                                     | 1-Iniciante |
-| [Random Meal Generator](./Projetos/1-Iniciante/Random-Meal-Generator.md)           | Generate random meals                                      | 1-Iniciante |
-| [Roman to Decimal Converter](./Projetos/1-Iniciante/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                           | 1-Iniciante |
-| [Slider Design](./Projetos/1-Iniciante/Slider-Design.md)                           | Display images using a slider control                      | 1-Iniciante |
-| [Stopwatch App](./Projetos/1-Iniciante/Stopwatch-App.md)                           | Count time spent on activities                             | 1-Iniciante |
-| [TrueOrFalse](./Projetos/1-Iniciante/True-or-False-App.md)                         | Identify the result of a conditional comparison            | 1-Iniciante |
-| [Vigenere Cipher](./Projetos/1-Iniciante/Vigenere-Cipher.md)                       | Encrypt text using the Vigenere Cypher                     | 1-Iniciante |
-| [Wind Chill](./Projetos/1-Iniciante/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature  | 1-Iniciante |
-| [Word Frequency](./Projetos/1-Iniciante/Word-Frequency-App.md)                     | Calculate word frequency in a block of text                | 1-Iniciante |
-| [Weather App](./Projetos/1-Iniciante/Weather-App.md)                               | Get the temperature, weather condition of a city.          | 1-Iniciante |
+| [Simulador de Caixa de Correios com IOT](./Projetos/1-Iniciante/IOT-Mailbox-App.md)                 | Use callbacks para checar sua caixa de correios                     | 1-Iniciante |
+| [Validação de Input no JS](./Projetos/1-Iniciante/Javascript-Validation-With-Regex.md)  | Script para validar entradas do usuário usando RegEx    | 1-Iniciante |
+| [JSON2CSV](./Projetos/1-Iniciante/JSON2CSV-App.md)                             | Conversor JSON para CSV                                      | 1-Iniciante |
+| [Tecla e Valor](./Projetos/1-Iniciante/Key-Value-App.md)                               | Eventos do Teclado                                      | 1-Iniciante |
+| [Gerador de Lorem Ipsum](./Projetos/1-Iniciante/Lorem-Ipsum-Generator.md)           | Gere texto lorem ipsum                      | 1-Iniciante |
+| [Aplicação de Anotações](./Projetos/1-Iniciante/Notes-App.md)                                   | Crie um bloco de notas online                               | 1-Iniciante |
+| [Regressão de Pearson](./Projetos/1-Iniciante/Pearson-Regression-App.md)             | Calcule o coeficiente de correlação para dois conjuntos de dados | 1-Iniciante |
+| [Relógio Pomodoro](./Projetos/1-Iniciante/Pomodoro-Clock.md)                         | Temporizador de tarefas para ajudar na produtividade                    | 1-Iniciante |
+| [Tela Inicial de um Produto](./Projetos/1-Iniciante/Product-Landing-Page.md)             | Mostre os detalhes de um produto para possíveis compradores               | 1-Iniciante |
+| [Aplicação de Quiz](./Projetos/1-Iniciante/Quiz-App.md)                                     | Teste seu conhecimento respondendo perguntas                 | 1-Iniciante |
+| [Aplicação de Receitas](./Projetos/1-Iniciante/Recipe-App.md)                                 | Receitas                                                     | 1-Iniciante |
+| [Gerador de Refeições](./Projetos/1-Iniciante/Random-Meal-Generator.md)           | Gere refeições aleatórias                                     | 1-Iniciante |
+| [Conversor de Romano para Decimal](./Projetos/1-Iniciante/Roman-to-Decimal-Converter.md) | Converta números romanos para números decimais                           | 1-Iniciante |
+| [Design de Slider](./Projetos/1-Iniciante/Slider-Design.md)                           | Exiba imagens usando um controle de  apresentação                      | 1-Iniciante |
+| [Cronômetro](./Projetos/1-Iniciante/Stopwatch-App.md)                           | Conte o tempo gasto com certa atividade                             | 1-Iniciante |
+| [VerdadeiroOuFalso](./Projetos/1-Iniciante/True-or-False-App.md)                         | Identifique o resultado de uma comparação condicional            | 1-Iniciante |
+| [Cifra Vigenere](./Projetos/1-Iniciante/Vigenere-Cipher.md)                       | Criptografe texto usando a Cifra Vigenere                     | 1-Iniciante |
+| [Índice de Resfriamento](./Projetos/1-Iniciante/Windchill-App.md)                              | Calcule o índice de resfriamento de uma temperatura  | 1-Iniciante |
+| [Frequência de uma Palavra](./Projetos/1-Iniciante/Word-Frequency-App.md)                     | Calcule a frequência de uma palavra em um bloco de texto                | 1-Iniciante |
+| [Previsão do Tempo](./Projetos/1-Iniciante/Weather-App.md)                               | Veja a temperatura e condições do tempo de uma cidade          | 1-Iniciante |
 
 ### Categoria-2: Projetos Intermediários
 
-| Name                                                                              | Short Description                                  | Tier           |
+| Nome                                                                              | Pequena Descrição                                  | Categoria           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
 | [Bit Masks](./Projetos/2-Intermediario/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediário |
 | [Book Finder App](./Projetos/2-Intermediario/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediário |

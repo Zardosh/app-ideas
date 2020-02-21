@@ -80,63 +80,63 @@ Os projetos são divididos em três categorias baseado no conhecimento e experi�
 
 | Nome                                                                              | Pequena Descrição                                  | Categoria           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
-| [Bit Masks](./Projetos/2-Intermediario/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediário |
-| [Book Finder App](./Projetos/2-Intermediario/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediário |
-| [Calculator CLI](./Projetos/2-Intermediario/Calculator-CLI.md)                   | Create a basic calculator cli.             | 2-Intermediário |
-| [Card Memory Game](./Projetos/2-Intermediario/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediário |
-| [Charity Finder App](./Projetos/2-Intermediario/Charity-Finder-App.md)             | Find a Global Charity to donate to                 | 2-Intermediário |
-| [Chrome Theme Extension](./Projetos/2-Intermediario/Chrome-Theme-Extension.md)     | Build your own chrome theme extention.             | 2-Intermediário |
-| [Drawing App](./Projetos/2-Intermediario/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediário |
-| [Emoji Translator App](./Projetos/2-Intermediario/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediário |
-| [Flashcards App](./Projetos/2-Intermediario/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediário |
-| [Flip Art App](./Projetos/2-Intermediario/Flip-Art-App.md)                         | Animate a set of images                            | 2-Intermediário |
-| [Game Suggestion App](./Projetos/2-Intermediario/Game-Suggestion-App.md)           | Create polls to decide what games to play          | 2-Intermediário |
-| [GitHub Profiles](./Projetos/2-Intermediario/GitHub-Profiles.md)                   | A GitHub user search App                           | 2-Intermediário |
-| [HighStriker Game](./Projetos/2-Intermediario/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediário |
-| [Image Scanner](./Projetos/2-Intermediario/Image-Scaner.md)                        | Image Scanner App                                  | 2-Intermediário |
-| [Markdown Previewer](./Projetos/2-Intermediario/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediário |
-| [Markdown Table Generator](./Projetos/2-Intermediario/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediário |
-| [Math Editor](./Projetos/2-Intermediario/math-editor.md)                           | A math editor for students to use                  | 2-Intermediário |
-| [Meme Generator App](./Projetos/2-Intermediario/Meme-Generator-App.md)             | Create custom memes                                | 2-Intermediário |
-| [Name Generation using RNNs](./Projetos/2-Intermediario/Name-Generator.md)         | Generate names using names dataset                 | 2-Intermediário |
-| [Password Generator](./Projetos/2-Intermediario/Password-Generator.md)             | Generate random passwords                          | 2-Intermediário |
-| [Podcast Directory](./Projetos/2-Intermediario/Podcast-Directory-App.md)           | Directory of favorite podcasts                     | 2-Intermediário |
-| [QR Code Badge Generator](./Projetos/2-Intermediario/QRCode-Badge-App.md)          | Encode badge info in a QRcode                      | 2-Intermediário |
-| [Regular Expression Helper](./Projetos/2-Intermediario/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediário |
-| [Sales Reciepts App](./Projetos/2-Intermediario/Sales-DB-App.md)                   | Record Sales Receipts in a DB                      | 2-Intermediário |
-| [Simple Online Store](./Projetos/2-Intermediario/Simple-Online-Store.md)           | Simple Online Store                                | 2-Intermediário |
-| [Sports Bracket Generator](./Projetos/2-Intermediario/Sports-Bracket-Generator.md) | Generate a sports bracket diagram                  | 2-Intermediário |
-| [String Art](./Projetos/2-Intermediario/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediário |
-| [This or That Game](./Projetos/2-Intermediario/This-or-That-Game.md)               | This or That Game                                  | 2-Intermediário |
-| [Timezone Slackbot](./Projetos/2-Intermediario/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediário |
-| [To-Do App](./Projetos/2-Intermediario/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediário |
-| [Typing Practice](./Projetos/2-Intermediario/Typing-Practice-App.md)               | Typing Practice                                    | 2-Intermediário |
-| [Voting App](./Projetos/2-Intermediario/Voting-App.md)                             | Voting App                                         | 2-Intermediário |
+| [Máscaras](./Projetos/2-Intermediario/Bit-Masks-App.md)                           | Use máscaras em condicionais                     | 2-Intermediário |
+| [Localizador de Livros](./Projetos/2-Intermediario/Book-Finder-App.md)                   | Procure por livros usando vários critérios              | 2-Intermediário |
+| [CLI de Calculadora](./Projetos/2-Intermediario/Calculator-CLI.md)                   | Crie uma CLI de calculadora             | 2-Intermediário |
+| [Jogo da Memória](./Projetos/2-Intermediario/Card-Memory-Game.md)                 | Memorize e combine imagens escondidas                   | 2-Intermediário |
+| [Localizador de Caridade](./Projetos/2-Intermediario/Charity-Finder-App.md)             | Ache um projeto de caridade global para doar                 | 2-Intermediário |
+| [Extensão de Temas para o Chrome](./Projetos/2-Intermediario/Chrome-Theme-Extension.md)     | Construa a sua própria extensão de temas para o chrome             | 2-Intermediário |
+| [Aplicação de Desenhos](./Projetos/2-Intermediario/Drawing-App.md)                           | Crie arte digital na web                  | 2-Intermediário |
+| [Tradutor de Emojis](./Projetos/2-Intermediario/Emoji-Translator-App.md)         | Traduza frases para emojis                     | 2-Intermediário |
+| [Aplicação de Flashcards](./Projetos/2-Intermediario/FlashCards-App.md)                     | Revise e teste seu conhecimento usando os Flashcards | 2-Intermediário |
+| [Aplicação de Flip Books](./Projetos/2-Intermediario/Flip-Art-App.md)                         | Anime um conjunto de imagens                            | 2-Intermediário |
+| [Aplicação de Sugestão de Jogos](./Projetos/2-Intermediario/Game-Suggestion-App.md)           | Crie enquetes para decidir quais jogos jogar          | 2-Intermediário |
+| [Perfis do GitHub](./Projetos/2-Intermediario/GitHub-Profiles.md)                   | Uma aplicação para procurar usuários do GitHub                           | 2-Intermediário |
+| [Martelo de Força](./Projetos/2-Intermediario/HighStriker-Game.md)                 | Jogo do Martelo de Força                | 2-Intermediário |
+| [Escaneador de Imagens](./Projetos/2-Intermediario/Image-Scaner.md)                        | Aplicação para escanear imagens                                  | 2-Intermediário |
+| [Visualizador de Markdown](./Projetos/2-Intermediario/Markdown-Previewer.md)             | Visualize texto formatado com o Markdown do GitHub | 2-Intermediário |
+| [Tabelas para Markdown](./Projetos/2-Intermediario/Markdown-Table-Generator.md) | Converta uma tabela em texto formatado com Markdown       | 2-Intermediário |
+| [Editor de Equações](./Projetos/2-Intermediario/math-editor.md)                           | Um editor de equações para estudantes                  | 2-Intermediário |
+| [Gerador de Memes](./Projetos/2-Intermediario/Meme-Generator-App.md)             | Crie memes customizados                                | 2-Intermediário |
+| [Gerador de Nomes com Rede Neural Recorrente](./Projetos/2-Intermediario/Name-Generator.md)         | Gere nomes usando uma base de dados de nomes                 | 2-Intermediário |
+| [Gerador de Senha](./Projetos/2-Intermediario/Password-Generator.md)             | Gere senhas aleatórias                          | 2-Intermediário |
+| [Diretório de Podcasts](./Projetos/2-Intermediario/Podcast-Directory-App.md)           | Diretório dos podcasts favoritos                     | 2-Intermediário |
+| [Gerador de QRcode](./Projetos/2-Intermediario/QRCode-Badge-App.md)          | Codifique informações em um QRcode                      | 2-Intermediário |
+| [Verificador de Expressões Regulares](./Projetos/2-Intermediario/RegExp-Helper-App.md)       | Teste Expressões Regulares                           | 2-Intermediário |
+| [Receitas de Vendas](./Projetos/2-Intermediario/Sales-DB-App.md)                   | Guarde as receitas de vendas em uma base de dados                      | 2-Intermediário |
+| [Loja Online Simples](./Projetos/2-Intermediario/Simple-Online-Store.md)           | Loja online simples                                | 2-Intermediário |
+| [Gerador de Chaves de Torneio](./Projetos/2-Intermediario/Sports-Bracket-Generator.md) | Gere o diagrama de chaves de um torneio                  | 2-Intermediário |
+| [Arte em Linhas](./Projetos/2-Intermediario/String-Art.md)                             | Uma animação de linhas coloridas em movimento            | 2-Intermediário |
+| [Jogo de Isso ou Aquilo](./Projetos/2-Intermediario/This-or-That-Game.md)               | Jogo de Isso ou Aquilo                                  | 2-Intermediário |
+| [Robõ de Fuso Horários para o Slack](./Projetos/2-Intermediario/Timezone-Slackbot.md)               | Mostre os fusos horários do time                             | 2-Intermediário |
+| [Aplicação de Tarefas](./Projetos/2-Intermediario/To-Do-App.md)                               | Administre tarefas pessoais                        | 2-Intermediário |
+| [Prática de Digitação](./Projetos/2-Intermediario/Typing-Practice-App.md)               | Prática de Digitação                                    | 2-Intermediário |
+| [Aplicação de Votação](./Projetos/2-Intermediario/Voting-App.md)                             | Aplicação de Votação                                         | 2-Intermediário |
 
 ### Categoria-3: Projetos Avançados
 
-| Name                                                                          | Short Description                                                   | Tier       |
+| Nome                                                                          | Pequena Descrição                                                   | Categoria       |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
-| [Battleship Bot](./Projetos/3-Avancado/Battleship-Bot.md)                     | Create a Discord bot that plays Battleship                          | 3-Avançado |
-| [Battleship Game Engine](./Projetos/3-Avancado/Battleship-Game-Engine.md)     | Create a callable engine to play the Battleship game                | 3-Avançado |
-| [Boole Bots Game](./Projetos/3-Avancado/Boole-Bot-Game.md)                    | Battling Bots driven by Boolean algebra                             | 3-Avançado |
-| [Calendar](./Projetos/1-Beginner/Calendar-App.md)                             | Create your own Calendar                                            | 3-Avançado |
-| [Calorie Counter](./Projetos/3-Avancado/Calorie-Counter-App.md)               | Calorie Counter Nutrition App                                       | 3-Avançado |
-| [Chat App](./Projetos/3-Avancado/Chat-App.md)                                 | Real-time chat interface                                            | 3-Avançado |
-| [Contribution Tracker App](./Projetos/3-Avancado/Contribution-Tracker-App.md) | Track funds donated to charity                                      | 3-Avançado |
-| [Elevator](./Projetos/3-Avancado/Elevator-App.md)                             | Elevator simulator                                                  | 3-Avançado |
-| [Fast Food Simulator](./Projetos/3-Avancado/FastFood-App.md)                  | Fast Food Restaurant Simulator                                      | 3-Avançado |
-| [Instagram Clone](./Projetos/3-Avancado/Instagram-Clone-App.md)               | A clone of Facebook's Instagram app                                 | 3-Avançado |
-| [GitHub Timeline](./Projetos/3-Avancado/GitHub-Timeline-App.md)               | Generate a timeline of a users GitHub Repos                         | 3-Avançado |
-| [Kudos Slackbot](./Projetos/3-Avancado/Kudos-Slackbot.md)                     | Give recognition to a deserving peer                                | 3-Avançado |
-| [Movie App](./Projetos/3-Avancado/Movie-App.md)                               | Browse, Find Ratings, Check Actors and Find you next movie to watch | 3-Avançado |
-| [MyPodcast Library](./Projetos/3-Avancado/MyPodcast-Library-app.md)           | Create a library of favorite podcasts                               | 3-Avançado |
-| [NASA Exoplanet Query](./Projetos/3-Avancado/NASA-Exoplanet-Query.md)         | Query NASA's Exoplanet Archive                                      | 3-Avançado |
-| [Shell Game](./Projetos/3-Avancado/Shell-Game.md)                             | Animated shell game                                                 | 3-Avançado |
-| [Shuffle Deck](./Projetos/3-Avancado/Shuffle-Deck-App.md)                     | Evaluate different algorithms for shuffling a card deck             | 3-Avançado |
-| [Slack Archiver](./Projetos/3-Avancado/Slack-Archiver.md)                     | Archive Slack Messages                                              | 3-Avançado |
-| [Spell-It App](./Projetos/3-Avancado/SpellIt-App.md)                          | A twist on the classic Speak N Spell game                           | 3-Avançado |
-| [Survey App](./Projetos/3-Avancado/Survey-App.md)                             | Define, conduct, and view a survey                                  | 3-Avançado |
+| [Robô de Batalha Naval](./Projetos/3-Avancado/Battleship-Bot.md)                     | Crie um bot do Discord que joga Batalha Naval                          | 3-Avançado |
+| [Game Engine de Batalha Naval](./Projetos/3-Avancado/Battleship-Game-Engine.md)     | Crie uma engine referenciável para jogar Batalha Naval                | 3-Avançado |
+| [Jogo de Robôs Booleanos](./Projetos/3-Avancado/Boole-Bot-Game.md)                    | Robôs de batalha comandados pela álgebra booleana                             | 3-Avançado |
+| [Calendário](./Projetos/1-Beginner/Calendar-App.md)                             | Crie seu próprio calendário                                            | 3-Avançado |
+| [Contador de Calorias](./Projetos/3-Avancado/Calorie-Counter-App.md)               | Aplicação para contar calorias                                       | 3-Avançado |
+| [Aplicação de Chat](./Projetos/3-Avancado/Chat-App.md)                                 | Chat em tempo real                                            | 3-Avançado |
+| [Rastreio de Doações](./Projetos/3-Avancado/Contribution-Tracker-App.md) | Rastreie fundos doados à caridade                                      | 3-Avançado |
+| [Elevador](./Projetos/3-Avancado/Elevator-App.md)                             | Simulator de Elevador                                                  | 3-Avançado |
+| [Simulador de Fast Food](./Projetos/3-Avancado/FastFood-App.md)                  | Simulador de Restaurante de Fast Food                                      | 3-Avançado |
+| [Clone do Instagram](./Projetos/3-Avancado/Instagram-Clone-App.md)               | Um clone do Instagram                                 | 3-Avançado |
+| [Linha do Tempo para o GitHub](./Projetos/3-Avancado/GitHub-Timeline-App.md)               | Gere uma linha do tempo para os repositórios de um usuário no GitHub                         | 3-Avançado |
+| [Bot de Parabenização para o Slack](./Projetos/3-Avancado/Kudos-Slackbot.md)                     | Dê reconhecimento a um parceiro de time                                | 3-Avançado |
+| [Aplicação de Filmes](./Projetos/3-Avancado/Movie-App.md)                               | Navegue, veja avaliações, atores e ache o próximo filme que você vai assistir | 3-Avançado |
+| [Biblioteca de Podcasts](./Projetos/3-Avancado/MyPodcast-Library-app.md)           | Crie uma biblioteca de podcasts favoritos                               | 3-Avançado |
+| [Consulta de Exoplanetas na NASA](./Projetos/3-Avancado/NASA-Exoplanet-Query.md)         | Consulte o arquivo de exoplanetas da NASA                                      | 3-Avançado |
+| [Jogo da Concha](./Projetos/3-Avancado/Shell-Game.md)                             | Jogo da concha animado                                                 | 3-Avançado |
+| [Embaralhe o baralho](./Projetos/3-Avancado/Shuffle-Deck-App.md)                     | Teste diferentes algoritmos para embaralhar um baralho de cartas             | 3-Avançado |
+| [Arquivador para Slack](./Projetos/3-Avancado/Slack-Archiver.md)                     | Arquive mensagens do Slack                                               | 3-Avançado |
+| [Soletrando](./Projetos/3-Avancado/SpellIt-App.md)                          | Uma variação do clássico jogo de soletrar                           | 3-Avançado |
+| [Aplicação de Pesquisas](./Projetos/3-Avancado/Survey-App.md)                             | Defina, conduza e visualize uma pesquisa                                  | 3-Avançado |
 
 ## Planos para o futuro
 
@@ -148,7 +148,7 @@ Nós também estamos planejando criar um website no qual você poderá navegar c
 
 Quaisquer contribuições são fortemente apreciadas. :pray: Você pode contribuir de duas maneiras:
 
-1. crie um _issue_ e nos explique a sua ideia :bulb:. Nesse caso, use o label **new idea**;
+1. crie um _issue_ e nos explique a sua ideia :bulb:. Nesse caso, use a label **new idea**;
 2. Dê um _fork_ no projeto e crie uma PR com a sua nova ideia. No entanto, antes de fazer isso, tenha certeza de que você leu e entendeu o [Guia de Contribuição](./CONTRIBUTING.md);
 
 ### Exemplos

@@ -2,7 +2,7 @@
 
 ![Imagem das Ideias de Projetos](./app-ideas.png)
 
-[![contribuições bem-vindas](https://img.shields.io/badge/contribuições-bem--vindas-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+[![contribuições bem-vindas](https://img.shields.io/badge/contribuições-bem--vindas-brightgreen.svg?style=flat)](./CONTRIBUINDO.md)
 
 Você já quis desenvolver alguma coisa mas não tinha ideia do que fazer? Assim como escritores às vezes sofrem do "Bloqueio Criativo", os desenvolvedores podem sentir o mesmo. Essa lista busca resolver esse problema de uma vez por todas! 👍
 
@@ -149,7 +149,7 @@ Nós também estamos planejando criar um website no qual você poderá navegar c
 Quaisquer contribuições são fortemente apreciadas. :pray: Você pode contribuir de duas maneiras:
 
 1. crie um _issue_ e nos explique a sua ideia :bulb:. Nesse caso, use a label **new idea**;
-2. Dê um _fork_ no projeto e crie uma PR com a sua nova ideia. No entanto, antes de fazer isso, tenha certeza de que você leu e entendeu o [Guia de Contribuição](./CONTRIBUTING.md);
+2. Dê um _fork_ no projeto e crie uma PR com a sua nova ideia. No entanto, antes de fazer isso, tenha certeza de que você leu e entendeu o [Guia de Contribuição](./CONTRIBUINDO.md);
 
 ### Exemplos
 

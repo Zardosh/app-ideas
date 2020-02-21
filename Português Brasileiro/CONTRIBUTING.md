@@ -1,10 +1,10 @@
-## Contribution Guide
+## Guia de Contribuição
 
-This guide will help us ensure that you have a simple and effective way to contribute to this project.
+Esse guia vai nos ajudar a garantir que você tenha uma maneira simples e efetiva de contribuir com esse projeto.
 
--   If you want to propose a new App Idea, please use the [Example Guide](./Example%20Guide.md) as a base template.
--   Before creating a Pull Request, please make sure that your suggestion is not already added to the project. You can submit an update if you believe it improves an existing idea.
--   Make sure you check your spelling and grammar.
--   Create individual PR for each suggestion.
+-   Se você quer propor uma nova ideia de aplicação, por favor use o [Guia de Exemplo](./Guia%20de%20Exemplo.md) como base.
+-   Antes de criar uma Pull Request, garanta que a sua sugestão ainda não foi adicionada ao projeto. Você pode enviar uma atualização caso acredite que ela melhora uma ideia existente.
+-   Use o Inglês formal para se comunicar.
+-   Crie Pull Requests individuais para cada sugestão.
 
-Thank you for spending your time to improve this project! ^\_^
+Obrigado por usar seu tempo ajudando a melhorar esse projeto! ^\_^

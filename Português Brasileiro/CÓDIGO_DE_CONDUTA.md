@@ -55,7 +55,7 @@ esclarecida pelos administradores do projeto.
 ## Aplicação
 
 Comportamento abusivo, de assédio ou de outros tipos pode ser
-comunicado contatando a equipe do projeto no email popflorin1705@yahoo.com (use inglêsupdated email).
+comunicado contatando a equipe do projeto no email popflorin1705@yahoo.com (use inglês).
 Todas as queixas serão revistas e investigadas e
 resultarão numa resposta necessária e apropriada à situação.
 A equipe é obrigada a manter a confidencialidade em relação

@@ -10,17 +10,17 @@ Responda às seguintes questões:
 
 ## Histórias do Usuário
 
--   [ ] Como cliente, eu quero ... primeira história do usuário
--   [ ] Como cliente, eu quero ... segunda história do usuário
--   [ ] Como cliente, eu quero ... terceira história do usuário
--   [ ] Como cliente, eu quero ... quarta história do usuário
--   [ ] Como cliente, eu quero ... quinta história do usuário
+-   [ ] Como usuário, eu quero ... primeira história do usuário
+-   [ ] Como usuário, eu quero ... segunda história do usuário
+-   [ ] Como usuário, eu quero ... terceira história do usuário
+-   [ ] Como usuário, eu quero ... quarta história do usuário
+-   [ ] Como usuário, eu quero ... quinta história do usuário
 -   etc...
 
 ## Funcionalidades bônus
 
--   [ ] Como cliente, eu quero ... primeira funcionalidade bônus
--   [ ] Como cliente, eu quero ... segunda funcionalidade bônus
+-   [ ] Como usuário, eu quero ... primeira funcionalidade bônus
+-   [ ] Como usuário, eu quero ... segunda funcionalidade bônus
 -   etc...
 
 ## Links e recursos úteis

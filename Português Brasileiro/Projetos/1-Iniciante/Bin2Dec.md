@@ -19,13 +19,13 @@ Esse desafio requer que o desenvolvedor siga as seguintes limitações:
 
 ## Histórias do Usuário
 
--   [ ] Como cliente, eu quero entrar com até 8 dígitos em um campo de texto
--   [ ] Como cliente, eu quero ser notificado se algo além de 1 ou 0 foi escrito
--   [ ] Como cliente, eu quero ver o resultado em um único campo de texto contendo o número decimal (base 10) equivalente ao número binário que escrevi
+-   [ ] Como usuário, eu quero entrar com até 8 dígitos em um campo de texto
+-   [ ] Como usuário, eu quero ser notificado se algo além de 1 ou 0 foi escrito
+-   [ ] Como usuário, eu quero ver o resultado em um único campo de texto contendo o número decimal (base 10) equivalente ao número binário que escrevi
 
 ## Funcionalidades bônus
 
--   [ ] Como cliente, eu quero poder escrever um número variável de dígitos binários
+-   [ ] Como usuário, eu quero poder escrever um número variável de dígitos binários
 
 ## Links e recursos úteis
 
